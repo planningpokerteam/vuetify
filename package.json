@@ -1,0 +1,26 @@
+{
+  "name": "vuetify",
+  "version": "3.3.23",
+  "description": "vuetify build for figma design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/planningpokerteam/vuetify.git"
+  },
+  "keywords": [
+    "vuetify",
+    "figma"
+  ],
+  "author": "planningpokerteam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/planningpokerteam/vuetify/issues"
+  },
+  "homepage": "https://github.com/planningpokerteam/vuetify#readme",
+  "dependencies": {
+    "vuetify": "^3.3.23"
+  }
+}
